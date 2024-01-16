@@ -1,0 +1,16 @@
+../Drivers/Motor/motor.c:19:9:recule_r	3
+../Drivers/Motor/motor.c:33:9:avance_r	3
+../Drivers/Motor/motor.c:47:9:stop_r	3
+../Drivers/Motor/motor.c:60:9:avance_l	3
+../Drivers/Motor/motor.c:74:9:recule_l	3
+../Drivers/Motor/motor.c:88:9:stop_l	3
+../Drivers/Motor/motor.c:102:9:init_motors	1
+../Drivers/Motor/motor.c:119:9:init_encoders	7
+../Drivers/Motor/motor.c:192:9:get_ticks	23
+../Drivers/Motor/motor.c:285:9:command_cartesien	5
+../Drivers/Motor/motor.c:320:9:odom	2
+../Drivers/Motor/motor.c:344:9:command_distance	3
+../Drivers/Motor/motor.c:368:9:command_angle	3
+../Drivers/Motor/motor.c:390:9:command_angle_stop	1
+../Drivers/Motor/motor.c:399:9:command_distance_stop	1
+../Drivers/Motor/motor.c:408:9:command_stop	1

@@ -1,0 +1,8 @@
+../Drivers/shell/shell.c:23:6:shell_uart_receive_irq_cb	2
+../Drivers/shell/shell.c:32:13:uart_read	1
+../Drivers/shell/shell.c:44:12:uart_write	1
+../Drivers/shell/shell.c:50:12:sh_help	2
+../Drivers/shell/shell.c:61:6:shell_init	2
+../Drivers/shell/shell.c:77:5:shell_add	2
+../Drivers/shell/shell.c:89:12:shell_exec	6
+../Drivers/shell/shell.c:125:5:shell_run	6

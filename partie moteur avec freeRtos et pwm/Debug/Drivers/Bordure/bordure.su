@@ -1,0 +1,2 @@
+../Drivers/Bordure/bordure.c:10:9:init_bords	16	static
+../Drivers/Bordure/bordure.c:18:9:update_bords	16	static
